@@ -1,0 +1,14 @@
+../Core/Src/app.c:105:16:Btn_Edge	24	static
+../Core/Src/app.c:131:16:Btn_Held	24	static
+../Core/Src/app.c:153:13:Programs_Load	32	static
+../Core/Src/app.c:181:13:Programs_Save	40	static
+../Core/Src/app.c:205:13:PadStr	32	static
+../Core/Src/app.c:218:13:Display_Idle	56	static
+../Core/Src/app.c:241:13:Display_Running	48	static
+../Core/Src/app.c:263:13:Display_SettingsList	48	static
+../Core/Src/app.c:286:13:Display_EditVolume	48	static
+../Core/Src/app.c:309:13:Display_EditTime	48	static
+../Core/Src/app.c:328:13:Beep	8	static
+../Core/Src/app.c:340:13:SwitchState	16	static
+../Core/Src/app.c:351:6:App_Init	8	static
+../Core/Src/app.c:380:6:App_Run	24	static

@@ -1,0 +1,11 @@
+../Core/Src/eeprom.c:54:20:CS_Assert	8	static
+../Core/Src/eeprom.c:59:20:CS_Deassert	8	static
+../Core/Src/eeprom.c:71:9:EEPROM_ReadStatus	24	static
+../Core/Src/eeprom.c:88:13:WaitReady	16	static
+../Core/Src/eeprom.c:103:16:WriteEnable	16	static
+../Core/Src/eeprom.c:121:26:WritePage	56	static
+../Core/Src/eeprom.c:156:6:EEPROM_Init	8	static
+../Core/Src/eeprom.c:174:19:EEPROM_ReadBuffer	112	static
+../Core/Src/eeprom.c:226:19:EEPROM_WriteBuffer	32	static
+../Core/Src/eeprom.c:260:19:EEPROM_WriteU16	24	static
+../Core/Src/eeprom.c:268:10:EEPROM_ReadU16	24	static
